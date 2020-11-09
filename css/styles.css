@@ -10189,10 +10189,10 @@ body {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: #000000;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #000000;
+    color: #fff;
   }
   #mainNav.navbar-shrink .nav-link {
     color: #000000;
